@@ -1,0 +1,80 @@
+.review-save {
+    padding: 20px;
+    background-color: #f4f6f8;
+    border-radius: 12px;
+    max-width: 800px;
+    margin: 40px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+  .review-card {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .review-section {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #444;
+    margin-bottom: 30px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  h3 {
+    margin-bottom: 15px;
+    color: #555;
+    font-size: 20px;
+  }
+  
+  p {
+    margin: 8px 0;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  strong {
+    color: #333;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+  }
+  
+  .btn {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-back {
+    background-color: #ff6f61;
+  }
+  
+  .btn-back:hover {
+    background-color: #ff5a4f;
+  }
+  
+  .btn-save {
+    background-color: #4caf50;
+  }
+  
+  .btn-save:hover {
+    background-color: #45a049;
+  }
+  
