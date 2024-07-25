@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jayraj175coder/Budget-Planner.git/static/css/main.7d58b432.css",
-    "main.js": "/jayraj175coder/Budget-Planner.git/static/js/main.5c99af4a.js",
-    "static/js/453.e263d5cc.chunk.js": "/jayraj175coder/Budget-Planner.git/static/js/453.e263d5cc.chunk.js",
-    "index.html": "/jayraj175coder/Budget-Planner.git/index.html",
-    "main.7d58b432.css.map": "/jayraj175coder/Budget-Planner.git/static/css/main.7d58b432.css.map",
-    "main.5c99af4a.js.map": "/jayraj175coder/Budget-Planner.git/static/js/main.5c99af4a.js.map",
-    "453.e263d5cc.chunk.js.map": "/jayraj175coder/Budget-Planner.git/static/js/453.e263d5cc.chunk.js.map"
+    "main.css": "/Budget-Planner/static/css/main.7d58b432.css",
+    "main.js": "/Budget-Planner/static/js/main.fbe3558e.js",
+    "static/js/453.e263d5cc.chunk.js": "/Budget-Planner/static/js/453.e263d5cc.chunk.js",
+    "index.html": "/Budget-Planner/index.html",
+    "main.7d58b432.css.map": "/Budget-Planner/static/css/main.7d58b432.css.map",
+    "main.fbe3558e.js.map": "/Budget-Planner/static/js/main.fbe3558e.js.map",
+    "453.e263d5cc.chunk.js.map": "/Budget-Planner/static/js/453.e263d5cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d58b432.css",
-    "static/js/main.5c99af4a.js"
+    "static/js/main.fbe3558e.js"
   ]
 }
